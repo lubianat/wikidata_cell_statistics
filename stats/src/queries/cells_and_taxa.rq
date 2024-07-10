@@ -1,0 +1,9 @@
+SELECT DISTINCT  (REPLACE(STR(?item), ".*Q", "Q") AS ?qid) 
+?taxon ?taxonLabel ?taxon_name
+WHERE {
+  ?item wdt:P279* wd:Q7868 .
+  OPTIONAL {?item wdt:P703 ?taxon .
+            ?taxon wdt:P225 ?taxon_name .}
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } # Helps get the label in your language, if not, then en language
+ 
+}

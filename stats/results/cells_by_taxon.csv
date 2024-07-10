@@ -1,0 +1,56 @@
+taxon_name,qid,taxonLabel,taxon
+Algae,1,1,1
+Thaliacea,1,1,1
+Stropharia,1,1,1
+Spalax ehrenbergi,1,1,1
+Sessilida,1,1,1
+Sepia officinalis,1,1,1
+Quadrumana,1,1,1
+Prototaxites,1,1,1
+Potamididae,1,1,1
+Porifera,1,1,1
+Plantae,1,1,1
+Pisces,1,1,1
+Ovis aries,1,1,1
+Mesocricetus auratus,1,1,1
+Hyphomycetes,1,1,1
+Doryteuthis opalescens,1,1,1
+Metazoa,1,1,1
+Dinoflagellata,1,1,1
+Carnivora,1,1,1
+Cephalopoda,1,1,1
+Ciona intestinalis,1,1,1
+Cnidaria,1,1,1
+Crustacea,1,1,1
+Caenorhabditis elegans,1,1,1
+Ascidiacea,1,1,1
+Danio nigrofasciatus,1,1,1
+Caenorhabditis,1,1,1
+Apicomplexa,1,1,1
+Insecta,2,2,2
+Sarcocystidae,2,2,2
+Annelida,2,2,2
+Amphibia,2,2,2
+Fungi,2,2,2
+Plasmodium falciparum,2,2,2
+Diptera,2,2,2
+Felis catus,2,2,2
+Reptilia,2,2,2
+Mammalia,2,2,2
+Callithrix jacchus,2,2,2
+Rhodophyta,3,3,3
+Trachemys scripta elegans,3,3,3
+Pogona vitticeps,3,3,3
+Primates,3,3,3
+Xenopus laevis,3,3,3
+Endopterygota,3,3,3
+Vertebrata,7,7,7
+Danio rerio,9,9,9
+Mus,10,10,10
+Protostomia,11,11,11
+Nematoda,16,16,16
+Macaca fascicularis,18,18,18
+Rattus norvegicus,42,42,42
+Mus musculus,464,464,464
+Homo sapiens,703,703,703
+no taxon specified,4730,4730,4730
